@@ -5,3 +5,6 @@ include/
 pyvenv.cfg
 bin/
 pricing_agent/.env
+agent_1/.env
+gsearch_agent/.env
+pricing_agent/.env
